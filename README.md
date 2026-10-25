@@ -368,25 +368,17 @@ This is a local recording. To share it:
 
 ### Screenshots
 
+## Screenshots
+
 | Feature | Screenshot |
-
 |---|---|
+| Debugger UI | ![Debugger UI](docs/screenshots/debuggerUI.png) |
+| Convert — WAV to JSON | ![Convert](docs/screenshots/convert.png) |
+| Instrument — Piano Pad | ![Instrument](docs/screenshots/instrument.png) |
+| Music Theory Quiz | ![Music Theory Quiz](docs/screenshots/quiz.png) |
+| Learning Hub | ![Learning Hub](docs/screenshots/learning_hub.png) |
+| Workspace | ![Workspace](docs/screenshots/workspace.png) |
 
-| Debugger — JSON input and validation | `docs/screenshots/debuggerUI.png` |
-
-| Debugger — AI coach chat response | `docs/screenshots/debugger_chat.png` |
-
-| Convert — WAV to JSON conversion | `docs/screenshots/convert.png` |
-
-| Instrument — interactive piano pad | `docs/screenshots/instrument.png` |
-
-| Music Theory Quiz | `docs/screenshots/quiz.png` |
-
-| Learning Hub | `docs/screenshots/learning_hub.png` |
-
-| Workspace | `docs/screenshots/workspace.png`|
-
----
 
 ## Installation and Setup
 
